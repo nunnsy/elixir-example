@@ -17,6 +17,9 @@ Check out our demo site's analytics [here](https://plausible.lukeorth.com/elixir
 
 <!--more-->
 
+> Quotes  read in light or dark mode.  read in light or dark mode.  read in light or dark mode. 
+> ...
+
 ## Features
 
 In addition to the standard Built-in templates and shortcodes that come with Hugo, *Elixir* offers some unique features of its own.
@@ -228,26 +231,6 @@ John-->>Alice: Great!
 John->>Bob: How about you?
 Bob-->>John: Jolly good!
 {{</* /mermaid */>}}
-{{</ highlight >}}
-
-### PlantUML diagrams
-
-There's a shortcode for embedding PlantUML diagrams.
-
-**Note**: *Enabling PlantUML diagrams will add external dependencies.*
-
-{{< plantuml id="foo" >}}
-a -> b
-b -> c
-{{< /plantuml >}}
-
-Here's the code for the diagram above:
-
-{{< highlight text >}}
-{{</* plantuml id="foo" */>}}
-a -> b
-b -> c
-{{</* /plantuml */>}}
 {{</ highlight >}}
 
 ### Details
