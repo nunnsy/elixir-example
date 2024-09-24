@@ -1,7 +1,6 @@
 baseURL = "/"
 languageCode = "en-gb"
 theme = "elixir"
-title = "Elixir"
 pagination.pagerSize = 10
 pluralizelisttitles = false   # removes the automatically appended "s" on sidebar entries
 

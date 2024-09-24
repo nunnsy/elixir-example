@@ -1,13 +1,16 @@
 ---
 title: "Introducing Elixir"
-date: 2022-11-23T13:43:53-06:00
+date: 2024-09-24T00:00:00+00:00
 draft: false
 image: brand_image.jpg
 tags: ["hugo","introduction"]
-series: "How to use elixir"
+series: "How to use Elixir"
 ---
 
 *Elixir* is a **clean**, **professional** Hugo theme designed to **captivate** your readers.
+
+> [!NOTE]
+> This examples page is a WIP!
 
 It's also **tiny** and **privacy conscious**.  No JavaScript frameworks, icon packs, or Google fonts.  No ads or trackers polluting your console window.  **We kept things simple**.  A little vanilla JavaScript, a dash of CSS, and the power of Hugo.
 
@@ -451,15 +454,3 @@ You can override any setting in Elixir's static CSS files by adding your own `/a
   font-family: "Monaco", monospace;
 }
 {{</highlight >}}
-
-## Suggestions / Contributions
-
-Please feel free to add suggestions for new features by opening a new issue in GitHub.  If you like the theme, let us know in the comments below!
-
-A big shout out and *thank you* to these top contributors:
-
-- [Darius Makovsky (traveltissues)](https://github.com/traveltissues)
-- [Pierre Bourdon (delroth)](https://github.com/delroth)
-- [Karl Austin (KarlAustin)](https://github.com/KarlAustin)
-- [Diogo Almeida (Diogo-Almeida3)](https://github.com/Diogo-Almeida3)
-- [Ayden Holmes (eyegog)](https://github.com/eyegog)
