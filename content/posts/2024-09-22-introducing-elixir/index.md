@@ -1,13 +1,16 @@
 ---
 title: "Introducing Elixir"
-date: 2022-11-23T13:43:53-06:00
+date: 2024-09-24T00:00:00+00:00
 draft: false
 image: brand_image.jpg
 tags: ["hugo","introduction"]
-series: "How to use elixir"
+series: "How to use Elixir"
 ---
 
 *Elixir* is a **clean**, **professional** Hugo theme designed to **captivate** your readers.
+
+> [!NOTE]
+> This examples page is a WIP!
 
 It's also **tiny** and **privacy conscious**.  No JavaScript frameworks, icon packs, or Google fonts.  No ads or trackers polluting your console window.  **We kept things simple**.  A little vanilla JavaScript, a dash of CSS, and the power of Hugo.
 
@@ -16,6 +19,9 @@ All the static assets for the site (JS files, CSS, and fonts) are located within
 Check out our demo site's analytics [here](https://plausible.lukeorth.com/elixir.lukeorth.com) to gauge community interest in the theme.
 
 <!--more-->
+
+> Quotes  read in light or dark mode.  read in light or dark mode.  read in light or dark mode. 
+> ...
 
 ## Features
 
@@ -228,26 +234,6 @@ John-->>Alice: Great!
 John->>Bob: How about you?
 Bob-->>John: Jolly good!
 {{</* /mermaid */>}}
-{{</ highlight >}}
-
-### PlantUML diagrams
-
-There's a shortcode for embedding PlantUML diagrams.
-
-**Note**: *Enabling PlantUML diagrams will add external dependencies.*
-
-{{< plantuml id="foo" >}}
-a -> b
-b -> c
-{{< /plantuml >}}
-
-Here's the code for the diagram above:
-
-{{< highlight text >}}
-{{</* plantuml id="foo" */>}}
-a -> b
-b -> c
-{{</* /plantuml */>}}
 {{</ highlight >}}
 
 ### Details
@@ -468,15 +454,3 @@ You can override any setting in Elixir's static CSS files by adding your own `/a
   font-family: "Monaco", monospace;
 }
 {{</highlight >}}
-
-## Suggestions / Contributions
-
-Please feel free to add suggestions for new features by opening a new issue in GitHub.  If you like the theme, let us know in the comments below!
-
-A big shout out and *thank you* to these top contributors:
-
-- [Darius Makovsky (traveltissues)](https://github.com/traveltissues)
-- [Pierre Bourdon (delroth)](https://github.com/delroth)
-- [Karl Austin (KarlAustin)](https://github.com/KarlAustin)
-- [Diogo Almeida (Diogo-Almeida3)](https://github.com/Diogo-Almeida3)
-- [Ayden Holmes (eyegog)](https://github.com/eyegog)
